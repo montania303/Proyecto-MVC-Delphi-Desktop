@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/14 14:19:08.000.219,=C:\Users\Desenvolvimento - XE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/20 13:25:33.000.222,=C:\Users\Desenvolvimento - XE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 15:32:44.000.910,=C:\Users\Desenvolvimento - XE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 15:34:22.000.715,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\vista\UFrmPrincipal.pas=C:\Users\Desenvolvimento - XE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 15:34:22.000.715,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\vista\UFrmPrincipal.dfm=C:\Users\Desenvolvimento - XE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/10/09 15:34:36.000.015,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\MVC.dproj=C:\Users\Desenvolvimento - XE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/10/09 15:36:25.000.956,=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 15:37:04.000.580,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\vista\UFrmRegistroCliente.pas=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 15:37:04.000.580,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\vista\UFrmRegistroCliente.dfm=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.dfm</Transaction>
+    <Transaction>2020/10/09 17:02:55.000.871,=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 17:03:11.000.214,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\modelo\UClienteModel.pas=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 17:13:20.000.704,=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 17:13:35.000.314,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\controller\UClienteController.pas=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 11:22:20.000.665,=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 11:24:00.000.988,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\dao\UDMConexion.pas=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 11:24:00.000.988,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\dao\UDMConexion.dfm=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.dfm</Transaction>
+    <Transaction>2020/11/04 11:45:38.000.703,=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 11:45:52.000.511,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\dao\UDMCliente.dfm=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.dfm</Transaction>
+    <Transaction>2020/11/04 11:45:52.000.511,C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\dao\UDMCliente.pas=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 11:46:01.000.290,=C:\Users\Desenvolvimento - XE\Documents\Proyectos Delphi (Moises)\MVC\ModelSupport_MVC\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>

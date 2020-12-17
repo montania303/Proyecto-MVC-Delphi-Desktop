@@ -1,0 +1,14 @@
+object DMConexion: TDMConexion
+  OldCreateOrder = False
+  Height = 173
+  Width = 234
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=C:\EXEMPLO\EXEMPLO.FDB'
+      'User_Name=sysdba'
+      'Password=masterkey'
+      'DriverID=FB')
+    Left = 48
+    Top = 40
+  end
+end

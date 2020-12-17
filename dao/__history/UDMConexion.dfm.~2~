@@ -1,0 +1,48 @@
+object DMConexion: TDMConexion
+  OldCreateOrder = False
+  Height = 173
+  Width = 234
+  object SQLConexion: TSQLConnection
+    DriverName = 'Oracle'
+    Params.Strings = (
+      'DriverUnit=Data.DBXOracle'
+      
+        'DriverPackageLoader=TDBXDynalinkDriverLoader,DBXCommonDriver210.' +
+        'bpl'
+      
+        'DriverAssemblyLoader=Borland.Data.TDBXDynalinkDriverLoader,Borla' +
+        'nd.Data.DbxCommonDriver,Version=21.0.0.0,Culture=neutral,PublicK' +
+        'eyToken=91d62ebb5b0d1b1b'
+      
+        'MetaDataPackageLoader=TDBXOracleMetaDataCommandFactory,DbxOracle' +
+        'Driver210.bpl'
+      
+        'MetaDataAssemblyLoader=Borland.Data.TDBXOracleMetaDataCommandFac' +
+        'tory,Borland.Data.DbxOracleDriver,Version=21.0.0.0,Culture=neutr' +
+        'al,PublicKeyToken=91d62ebb5b0d1b1b'
+      'GetDriverFunc=getSQLDriverORACLE'
+      'LibraryName=dbxora.dll'
+      'LibraryNameOsx=libsqlora.dylib'
+      'VendorLib=oci.dll'
+      'VendorLibWin64=oci.dll'
+      'VendorLibOsx=libociei.dylib'
+      'DataBase=Database Name'
+      'User_Name=user'
+      'Password=password'
+      'MaxBlobSize=-1'
+      'LocaleCode=0000'
+      'IsolationLevel=ReadCommitted'
+      'RowsetSize=20'
+      'OSAuthentication=False'
+      'MultipleTransactions=False'
+      'TrimChar=False'
+      'BlobSize=-1'
+      'ErrorResourceFile='
+      'OS Authentication=False'
+      'Multiple Transaction=False'
+      'Trim Char=False'
+      'Decimal Separator=.')
+    Left = 24
+    Top = 24
+  end
+end

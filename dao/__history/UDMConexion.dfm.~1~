@@ -1,0 +1,9 @@
+object DMConexion: TDMConexion
+  OldCreateOrder = False
+  Height = 173
+  Width = 234
+  object SQLConexion: TSQLConnection
+    Left = 24
+    Top = 24
+  end
+end

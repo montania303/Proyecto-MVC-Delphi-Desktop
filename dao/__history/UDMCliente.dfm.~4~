@@ -1,0 +1,45 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 242
+  Width = 579
+  object DSPBuscar: TDataSetProvider
+    DataSet = SQLBuscar
+    Left = 32
+    Top = 96
+  end
+  object CDSBuscar: TClientDataSet
+    Aggregates = <>
+    Params = <>
+    ProviderName = 'DSPBuscar'
+    Left = 32
+    Top = 160
+  end
+  object SQLBuscar: TSQLDataSet
+    MaxBlobSize = -1
+    Params = <>
+    SQLConnection = DMConexion.SQLConnection
+    Left = 32
+    Top = 8
+  end
+  object SQLActualizar: TSQLDataSet
+    MaxBlobSize = -1
+    Params = <>
+    SQLConnection = DMConexion.SQLConnection
+    Left = 168
+    Top = 8
+  end
+  object SQLEliminar: TSQLDataSet
+    MaxBlobSize = -1
+    Params = <>
+    SQLConnection = DMConexion.SQLConnection
+    Left = 240
+    Top = 8
+  end
+  object SQLInsertar: TSQLDataSet
+    MaxBlobSize = -1
+    Params = <>
+    SQLConnection = DMConexion.SQLConnection
+    Left = 96
+    Top = 8
+  end
+end
